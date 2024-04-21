@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING Brawl Stars","Invite friends to serve","Buys at Rank shop","DEV amit_d"];
+const statusMessages = ["PLAYING Brawl Stars","Invite friends to server","Buys at Rank shop","DEV amit_d"];
 
 
 let currentIndex = 0;
